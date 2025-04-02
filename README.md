@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Email-jamesxsj8441@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alvinhuangneu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alvin%20Huang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-James%20Huang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/StarfishJ">
     <img src="https://img.shields.io/badge/GitHub-StarfishJ-181717?style=for-the-badge&logo=github&logoColor=white" />
