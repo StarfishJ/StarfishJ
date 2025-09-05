@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm James Huang
+# 👋 Hi there, welcome to my Github page.
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Architect;Problem+Solver" alt="Typing SVG" />
@@ -61,5 +61,6 @@ Scene-Based Music Recommender (Qualcomm Edge AI Hackathon) | Python, PyTorch, Fl
 </div>
 
 ⭐️ From [StarfishJ](https://github.com/StarfishJ) 
+
 
 
