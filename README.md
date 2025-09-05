@@ -1,8 +1,6 @@
 # 👋 Hi there, welcome to my Github page.
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Architect;Problem+Solver" alt="Typing SVG" />
-</div>
+My name is Yuchen Huang. Take a look at my small project see if you are interested!
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing M.S. in Computer Science at Northeastern University
@@ -17,10 +15,7 @@ Backend & Frameworks: Node.js, Express.js, Flask, Prisma, Kafka, Stripe API, Spo
 DevOps & Cloud: Linux, AWS (EC2, S3, Lambda, ECS), Docker, Terraform, Kubernetes, CI/CD (GitHub Actions, Jenkins)
 Data & Storage: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Firebase, Firestore, PyTorch, Pandas, Dask, Plotly Dash
 
-
-
 ## 🎯 Featured Projects
-
 E-Commerce Microservices Distributed System Website | Express.js, Next.js, Kafka, MongoDB, Prisma, Docker, AWS (ECS)
 
 • Architected a highly resilient, event-driven system by integrating Apache Kafka, ensuring zero data loss and high availability while processing over 2,000 asynchronous events per second.
@@ -61,6 +56,7 @@ Scene-Based Music Recommender (Qualcomm Edge AI Hackathon) | Python, PyTorch, Fl
 </div>
 
 ⭐️ From [StarfishJ](https://github.com/StarfishJ) 
+
 
 
 
