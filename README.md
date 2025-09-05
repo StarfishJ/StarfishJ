@@ -22,11 +22,13 @@ Data & Storage: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Firebase, Fire
 ## 🎯 Featured Projects
 
 E-Commerce Microservices Distributed System Website | Express.js, Next.js, Kafka, MongoDB, Prisma, Docker, AWS (ECS)
+
 • Architected a highly resilient, event-driven system by integrating Apache Kafka, ensuring zero data loss and high availability while processing over 2,000 asynchronous events per second.
 • Reduced data retrieval latency by 60% under a load of 5,000+ requests/sec by designing and implementing strategic MongoDB indexing and aggregation pipelines, enabling more responsive and scalable backend performance.
 • Automated containerized deployments via a GitHub Actions CI/CD pipeline, orchestrating Docker images onto AWS ECS to increase deployment frequency 4x and cut production roll-backs 25%.
 
 Scene-Based Music Recommender (Qualcomm Edge AI Hackathon) | Python, PyTorch, Flask, Next.js, React, Spotify API
+
 • Led the development of a full-stack application, delivering a functional prototype from concept to demo within 24 hours.
 • Engineered the core offline AI engine by deploying a lightweight PyTorch (MobileNetV2) model for on-device image analysis, achieving inference latency under 200ms for instant, network-independent music recommendations.
 • Developed the core recommendation logic in a Python/Flask backend; built a custom algorithm that fuses the tags from AI model and uses rule-based and approximate matching to query the Spotify API, ensuring highly relevant playlist generation.
@@ -59,4 +61,5 @@ Scene-Based Music Recommender (Qualcomm Edge AI Hackathon) | Python, PyTorch, Fl
 </div>
 
 ⭐️ From [StarfishJ](https://github.com/StarfishJ) 
+
 
