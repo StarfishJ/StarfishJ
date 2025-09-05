@@ -11,35 +11,25 @@
 - 💬 Ask me about Java, Python, React, or Cloud Architecture
 
 ## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</div>
+Languages & Tools: Python (Proficient), JavaScript/TypeScript (Proficient), Java (Proficient), C/C++, Git, TDD, Selenium, JUnit5
+Frontend: React, Next.js, HTML/CSS, Tailwind CSS, REST API, React Query / Redux, Socket.IO
+Backend & Frameworks: Node.js, Express.js, Flask, Prisma, Kafka, Stripe API, Spotify API
+DevOps & Cloud: Linux, AWS (EC2, S3, Lambda, ECS), Docker, Terraform, Kubernetes, CI/CD (GitHub Actions, Jenkins)
+Data & Storage: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Firebase, Firestore, PyTorch, Pandas, Dask, Plotly Dash
 
 
 
 ## 🎯 Featured Projects
 
-### Full-stack Distributed E-Commerce Platform
-- Built 6+ SpringCloud microservices with Docker Swarm
-- Optimized MySQL with MybatisPlus, handling 10K QPS
-- Designed RabbitMQ order pipelines with 99% payment success rate
-- Implemented Redis-Lua locks for flash sales
-- Integrated Elasticsearch with custom analyzers
+E-Commerce Microservices Distributed System Website | Express.js, Next.js, Kafka, MongoDB, Prisma, Docker, AWS (ECS)
+• Architected a highly resilient, event-driven system by integrating Apache Kafka, ensuring zero data loss and high availability while processing over 2,000 asynchronous events per second.
+• Reduced data retrieval latency by 60% under a load of 5,000+ requests/sec by designing and implementing strategic MongoDB indexing and aggregation pipelines, enabling more responsive and scalable backend performance.
+• Automated containerized deployments via a GitHub Actions CI/CD pipeline, orchestrating Docker images onto AWS ECS to increase deployment frequency 4x and cut production roll-backs 25%.
 
-### Interactive 3D Skateboard Web Interface
-- Developed Next.js 3D viewer with SSR
-- Optimized Three.js pipeline for 60 FPS
-- Automated 3D CMS via Prismic
-- Implemented Web Workers for GLTF parsing
+Scene-Based Music Recommender (Qualcomm Edge AI Hackathon) | Python, PyTorch, Flask, Next.js, React, Spotify API
+• Led the development of a full-stack application, delivering a functional prototype from concept to demo within 24 hours.
+• Engineered the core offline AI engine by deploying a lightweight PyTorch (MobileNetV2) model for on-device image analysis, achieving inference latency under 200ms for instant, network-independent music recommendations.
+• Developed the core recommendation logic in a Python/Flask backend; built a custom algorithm that fuses the tags from AI model and uses rule-based and approximate matching to query the Spotify API, ensuring highly relevant playlist generation.
 
 ## 📫 Connect With Me
 <div align="center">
@@ -69,3 +59,4 @@
 </div>
 
 ⭐️ From [StarfishJ](https://github.com/StarfishJ) 
+
